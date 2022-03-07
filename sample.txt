@@ -1,2 +1,6 @@
 This is thulasi
+<<<<<<< HEAD
 this is suri
+=======
+This is kishore
+>>>>>>> 17c878775f503464284ed292505af3558fd98a2e
